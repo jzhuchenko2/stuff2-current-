@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
-//#include <cmath>
+#include <cmath>
 int main()
+
 {
-/*{
 int convert(long long);
   long long n;
   cout << "Enter a binary number: ";
@@ -24,5 +24,4 @@ int convert(long long n); {
   }
 
   return dec;
-}*/
 }
